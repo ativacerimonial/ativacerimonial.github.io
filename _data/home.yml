@@ -5,11 +5,11 @@ intro:
 
 portfolio:
   heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Eventos
 
 about:
   heading: Sobre
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Nos conheça um pouco melhor
   timeline:
     - image: img/about/1.jpg
       date: 
@@ -80,17 +80,17 @@ clients:
     url: "#"
 
 contact:
-  heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  name: Your Name *
-  name-required: Please enter your name.
-  email: Your Email *
-  email-required: Please enter your email address.
-  phone: Your Phone *
-  phone-required: Please enter your phone number.
-  message: Your Message *
-  message-required: Please enter a message.
-  btn: Send Message
+  heading: Entre em Contato conosco
+  subheading: Digite seus credenciais e nos envie um e-mail
+  name: Seu Nome *
+  name-required: Por favor digite seu nome.
+  email: Seu E-mail *
+  email-required: Por favor digite seu E-mail.
+  phone: Seu Telefone *
+  phone-required: Por favor digite seu telefone.
+  message: Sua mensagem *
+  message-required: Por favor escreva sua Mensagem.
+  btn: Enviar mensagem 
 
   js-url: '././mail/contact_me.php'
   js-success: 'Your message has been sent. '
