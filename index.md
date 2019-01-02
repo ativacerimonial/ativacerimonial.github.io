@@ -1,1 +1,3 @@
-WHASSUP
+---
+layout: home
+---

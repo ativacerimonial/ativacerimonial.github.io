@@ -1,0 +1,12 @@
+title: ATiva Assesoria e Cerimonial
+url: "https://ativacerimonial.github.io"
+description: ''
+author: ''
+
+sass:
+  style: compressed
+
+assets_path: '' 
+
+collections:
+  projects:

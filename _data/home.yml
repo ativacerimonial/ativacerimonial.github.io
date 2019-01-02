@@ -1,0 +1,98 @@
+intro:
+  lead-in: "Bem-vindo(a) a ATiva!!"
+  heading: Tranquilidade ao seu evento
+  btn: Mais
+
+portfolio:
+  heading: Portfolio
+  subheading: Lorem ipsum dolor sit amet consectetur.
+
+about:
+  heading: Sobre
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  timeline:
+    - image: img/about/1.jpg
+      date: 
+      title: Quem somos?
+      text: Uma empresa que provê serviços de assessoria e cerimonial para todos os tipos de eventos de casamentos à eventos coorporativos … de batizados à formaturas. O cuidado com os detalhes e a qualidade dos nossos serviços é o que melhor define o que somos e como trabalhamos.
+    - image: img/about/2.jpg
+      date: 
+      title: Missão e Visão
+      text: Um compromisso com seus sonhos e sua felicidade. A ATiva entende que cada evento deve ter caráter de originalidade, surpreendente, único, marcante, e fazer com que seus Clientes tenham de seus convidados um feedback absolutamente positivo
+    - image: img/about/3.jpg
+      date: 
+      title: Por que Ativa?
+      text: Tudo começou em 2010, e a ideia que parecia inusitada acabou por se tornar a realização de um grande sonho, que fosse respaldado pelo profissionalismo, seriedade, compromisso e ética em todos os eventos que fossemos contratadas. Um serviço que unisse em todos os seus detalhes a transformação do possível em algo sempre especial, ou melhor, inesquecível.
+                                  Chegamos ao Nome ATiva, utilizando das nossa iniciais “A” de Amanda e “T” de Thamisa. Duas jovens empreendedoras que demonstram que todo serviço realizado pela ATiva tem o mesmo tratamento e cuidado que elas exigiriam para um evento delas com o mesmo capricho e qualidade que organizariam seus 15 anos, formaturas, casamentos, bodas e outros. Para entender o que a ATiva faz, só a conhecendo e vivenciando os seus serviços. laudantium consectetur!
+
+
+  end1: Faça
+  end2: Parte dessa
+  end3: História!
+
+team:
+  heading: Our Amazing Team
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  members:
+    - name: Kay Garland
+      role: Lead Designer
+      img: img/team/1.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#" 
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+    - name: Larry Parker
+      role: Lead Marketer
+      img: img/team/2.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#"
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+    - name: Diana Pertersen
+      role: Lead Developer
+      img: img/team/3.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#"
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+  text: 
+
+clients:
+  - img: img/logos/envato.jpg
+    url: "#"
+  - img: img/logos/designmodo.jpg
+    url: "#"
+  - img: img/logos/themeforest.jpg
+    url: "#"
+  - img: img/logos/creative-market.jpg   
+    url: "#"
+
+contact:
+  heading: Contact Us
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  name: Your Name *
+  name-required: Please enter your name.
+  email: Your Email *
+  email-required: Please enter your email address.
+  phone: Your Phone *
+  phone-required: Please enter your phone number.
+  message: Your Message *
+  message-required: Please enter a message.
+  btn: Send Message
+
+  js-url: '././mail/contact_me.php'
+  js-success: 'Your message has been sent. '
+  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
