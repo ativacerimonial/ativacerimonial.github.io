@@ -3,15 +3,15 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Serviços
+  - title: <b>Serviços</b>
     url: '#services'
-  - title: Portfolio
+  - title: <b>Portfolio</b>
     url: '#portfolio'
-  - title: Sobre
+  - title: <b>Sobre</b>
     url: '#about'
-  - title: Time
+  - title: <b>Time</b>
     url: '#team'
-  - title: Contato
+  - title: <b>Contato</b>
     url: '#contact'
 
 copyright: Copyright &copy; ATiva Assesoria e Cerimonial
@@ -29,8 +29,8 @@ quicklinks:
     url: 'https://ativacerimonial.github.io/'
 
 modal:
-  date-string: 'Date: '
-  client-string: 'Client: '
-  category-string: 'Category: '
+  date-string: 'Data: '
+  client-string: 'Cliente: '
+  category-string: 'Gategoria: '
   close-icon: 'fa fa-times'
-  close-string: 'Close Project'
+  close-string: 'Fechar'

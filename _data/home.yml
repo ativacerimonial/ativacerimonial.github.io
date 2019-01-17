@@ -31,8 +31,8 @@ about:
   end3: História!
 
 team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Nossa equipe incrível
+  subheading:
   members:
     - name: Kay Garland
       role: Lead Designer
@@ -70,13 +70,13 @@ team:
   text: 
 
 clients:
-  - img: img/logos/envato.jpg
+  - img: 
     url: "#"
-  - img: img/logos/designmodo.jpg
+  - img: 
     url: "#"
-  - img: img/logos/themeforest.jpg
+  - img: 
     url: "#"
-  - img: img/logos/creative-market.jpg   
+  - img:    
     url: "#"
 
 contact:
