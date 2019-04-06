@@ -1,6 +1,6 @@
 intro:
   lead-in: "Bem-vindo(a) a ATiva!!"
-  heading: Tranquilidade ao seu evento
+  heading: <h2>Um compromisso com seu sonho e sua felicidade</h2>
   btn: Mais
 
 portfolio:
@@ -31,7 +31,7 @@ about:
   end3: História!
 
 team:
-  heading: Nossa equipe incrível
+  heading: Quem faz a ATiva
   subheading:
   members:
     - name: Kay Garland
@@ -80,19 +80,4 @@ clients:
     url: "#"
 
 contact:
-  heading: Entre em Contato conosco
-  subheading: Digite seus credenciais e nos envie um e-mail
-  name: Seu Nome *
-  name-required: Por favor digite seu nome.
-  email: Seu E-mail *
-  email-required: Por favor digite seu E-mail.
-  phone: Seu Telefone *
-  phone-required: Por favor digite seu telefone.
-  message: Sua mensagem *
-  message-required: Por favor escreva sua Mensagem.
-  btn: Enviar mensagem 
-
-  js-url: '././mail/contact_me.php'
-  js-success: 'Your message has been sent. '
-  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
-  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
+  heading: Veja a localização da ATiva

@@ -7,6 +7,8 @@ nav:
     url: '#services'
   - title: <b>Portfolio</b>
     url: '#portfolio'
+  - title: <b>Redes sociais</b>
+    url: '#redes'
   - title: <b>Sobre</b>
     url: '#about'
   - title: <b>Time</b>

@@ -73,6 +73,17 @@ layout: default
 
 
                 </div>
+
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                    </span>
+                    <h4 class="service-heading">Ativa Kids</h4>
+                    <p class="text-muted">Eventos para crianças.</p>
+
+
+                </div>
+
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-user" aria-hidden="true"></i>
@@ -118,6 +129,52 @@ layout: default
         {% assign ws = '' %}
         </div>
       </div>
+    </section>
+ <!-- redes Section -->
+    <section id="redes">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Redes sociais</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </span>
+                    <h4 class="service-heading">Instagram</h4>
+                    <p class="text-muted"><a href="https://www.instagram.com/ativacerimonial/" target="_blank">@ativacerimonial</a><br>
+                    Nos siga no instagram que é uma das fontes principais de contato  informações do nosso trabalho</p>
+
+
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-facebook-f" aria-hidden="true"></i>
+                    </span>
+                    <h4 class="service-heading">Facebook</h4>
+                    <p class="text-muted"><a href="https://www.facebook.com/ativacerimoniais/" target="_blank">@ativacerimoniais</a><br>
+                    Curta também a nossa página do Facebook e acompanhe nossos trabalhos</p>
+
+
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                    </span>
+                    <h4 class="service-heading">Contato</h4>
+                    <p class="text-muted">
+                      (84) 93231-0998<br>
+                      (84) 98881-1645<br>
+                      (84) 99453-7626
+                    </p>
+                </div>
+
+
+            </div>
+        </div>
     </section>
 
     <!-- About -->
@@ -230,34 +287,12 @@ layout: default
             <h3 class="section-subheading text-muted">{{ site.data.home.contact.subheading }}</h3>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="{{ site.data.home.contact.name }}" required="required" data-validation-required-message="{{ site.data.home.contact.name-required }}">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="{{ site.data.home.contact.email }}" required="required" data-validation-required-message="{{ site.data.home.contact.email-required }}">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="{{ site.data.home.contact.phone }}" required="required" data-validation-required-message="{{ site.data.home.contact.phone-required }}">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="{{ site.data.home.contact.message }}" required="required" data-validation-required-message="{{ site.data.home.contact.message-required }}"></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
+    
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15876.558337124841!2d-35.214958!3d-5.83594!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2ff87595f7b6f%3A0x1c423145cecba081!2sRua+Paulo+Lira%2C+3462+-+Candel%C3%A1ria%2C+Natal+-+RN%2C+59064-550!5e0!3m2!1spt-BR!2sbr!4v1552069093219" width="1100" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
                 <div class="clearfix"></div>
                 <div class="col-lg-12 text-center">
                   <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">{{ site.data.home.contact.btn }}</button>
                 </div>
               </div>
             </form>
